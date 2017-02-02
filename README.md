@@ -6,9 +6,9 @@ Files available in STL and Solidworks 2015 format.
 
 ## Example pictures
 
-![](pictures/assembled1.jpg)
-
 ![](pictures/assembled2.jpg)
+
+![](pictures/assembled1.jpg)
 
 ![](pictures/cad.png)
 
