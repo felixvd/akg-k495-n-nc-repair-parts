@@ -1,4 +1,4 @@
-# akg-495-n-nc-repair-parts
+# akg-k495-n-nc-repair-parts
 
 3D printable parts to repair AKG K495 N and AKG K495 NC headphones. You can use them to reinforce  the headband. See pictures below.
 
